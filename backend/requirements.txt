@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+supabase
+python-multipart
+google-generativeai
+langgraph
+langsmith           
+psycopg2-binary
+docx2txt
+PyMuPDF
+pinecone
+sentence-transformers
